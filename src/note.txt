@@ -1,0 +1,2 @@
+1. Counting bit- 
+2. Minimum bit flip-
